@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="D20B86466526E8D145BE58DB39BB4593B9D0C9D93A586371B946FB372C56EE081EF38BF746380CDF3F7A2D9AF5CE8BC4C9D1C66A18F5687152517816B62AFD51" Timestamp="1D8917CF10EE5FC" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="F66CE40C94D12D9721DF2B0A408B092B6AF31C895C06C1CC1B4488A2C5313265EF034FE2EED7995BAE414CC5587BE0A72FE141BB7EFF67A9347BCF856F2FD99C" Timestamp="1D89205E13FAA84" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="9.3.0.49613" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="9.3.0.49613" FeatureSetName="LabVIEW Virtual Instrument" Name="http://www.ni.com/LabVIEW.VI" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
@@ -447,19 +447,19 @@
 				<HtmlBehavior ClassAttributes="index" xmlns="http://www.ni.com/PlatformFramework" />
 			</NumericText>
 			<Label Height="[float]16" Id="ff84e6b2de5a49849670b110bb22e7dc" LabelOwner="[UIModel]45c11c920d743549bb43ed353518a7d" Left="[float]472" Text="[string]Kp" Top="[float]576" Width="[float]15" xmlns="http://www.ni.com/PanelCommon" />
-			<Text BaseName="[string]Text" Height="[float]22" Id="5f647152d9994054a64d0060fb3cc69a" Left="[float]472" Text="[string]Kp-verdi" TextWrapping="[TextWrapping]Wrap" Top="[float]564" Width="[float]72" xmlns="http://www.ni.com/PlatformFramework">
+			<Text BaseName="[string]Text" Height="[float]22" Id="5f647152d9994054a64d0060fb3cc69a" Left="[float]472" Text="[string]Kp-verdi" TextWrapping="[TextWrapping]Wrap" Top="[float]564" Width="[float]75" xmlns="http://www.ni.com/PlatformFramework">
 				<HtmlBehavior ClassAttributes="index" />
 				<FontSetting FontFamily="Segoe UI" FontSize="12" FontStyle="Bold" Id="86450d2ae82941aebc9f52dedffbe6b4" />
 			</Text>
-			<Text BaseName="[string]Text" Height="[float]22" Id="950716bd15254a72a1966a0674e7d1ad" Left="[float]580" Text="[string]SKAL verdi" TextWrapping="[TextWrapping]Wrap" Top="[float]536" Width="[float]89" xmlns="http://www.ni.com/PlatformFramework">
+			<Text BaseName="[string]Text" Height="[float]22" Id="950716bd15254a72a1966a0674e7d1ad" Left="[float]580" Text="[string]SKAL verdi" TextWrapping="[TextWrapping]Wrap" Top="[float]536" Width="[float]92" xmlns="http://www.ni.com/PlatformFramework">
 				<HtmlBehavior ClassAttributes="index" />
 				<FontSetting FontFamily="Segoe UI" FontSize="12" FontStyle="Bold" Id="3599e6603ac146e997836c51b1588069" />
 			</Text>
-			<Text BaseName="[string]Text" Height="[float]22" Id="34c4bf627f1b4b2e960f4021a8e756b9" Left="[float]803" Text="[string]Fc manuell" TextWrapping="[TextWrapping]Wrap" Top="[float]536" Width="[float]90" xmlns="http://www.ni.com/PlatformFramework">
+			<Text BaseName="[string]Text" Height="[float]22" Id="34c4bf627f1b4b2e960f4021a8e756b9" Left="[float]803" Text="[string]Fc manuell" TextWrapping="[TextWrapping]Wrap" Top="[float]536" Width="[float]91" xmlns="http://www.ni.com/PlatformFramework">
 				<FontSetting FontFamily="Segoe UI" FontSize="12" FontStyle="Bold" Id="630485fab03c44faa59f627865c9a678" />
 				<HtmlBehavior ClassAttributes="index" />
 			</Text>
-			<Text BaseName="[string]Text" Height="[float]25" Id="a1cf3e17de674b8baed109cb2407b381" Left="[float]628" Text="[string]P REGULATOR" TextWrapping="[TextWrapping]Wrap" Top="[float]463" Width="[float]135" xmlns="http://www.ni.com/PlatformFramework">
+			<Text BaseName="[string]Text" Height="[float]25" Id="a1cf3e17de674b8baed109cb2407b381" Left="[float]628" Text="[string]P REGULATOREN" TextWrapping="[TextWrapping]Wrap" Top="[float]457" Width="[float]160" xmlns="http://www.ni.com/PlatformFramework">
 				<FontSetting FontFamily="Segoe UI" FontSize="14" FontStyle="Bold" Id="8be6d0262c9b44748cf19ce7f810e337" />
 				<HtmlBehavior ClassAttributes="index" />
 			</Text>
