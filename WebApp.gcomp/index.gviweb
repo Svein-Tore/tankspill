@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="F66CE40C94D12D9721DF2B0A408B092B6AF31C895C06C1CC1B4488A2C5313265EF034FE2EED7995BAE414CC5587BE0A72FE141BB7EFF67A9347BCF856F2FD99C" Timestamp="1D89205E13FAA84" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="B1FA0A3E5E9E9DF284C8754C5B60C30878806DF8071A567877DF44CC4175293A7CE26B896B3EC250391CFF300BBC7BEFE44F50D64B6CA83FFCF4622606B15287" Timestamp="1D8922D09F90069" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="9.3.0.49613" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="9.3.0.49613" FeatureSetName="LabVIEW Virtual Instrument" Name="http://www.ni.com/LabVIEW.VI" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
@@ -459,7 +459,7 @@
 				<FontSetting FontFamily="Segoe UI" FontSize="12" FontStyle="Bold" Id="630485fab03c44faa59f627865c9a678" />
 				<HtmlBehavior ClassAttributes="index" />
 			</Text>
-			<Text BaseName="[string]Text" Height="[float]25" Id="a1cf3e17de674b8baed109cb2407b381" Left="[float]628" Text="[string]P REGULATOREN" TextWrapping="[TextWrapping]Wrap" Top="[float]457" Width="[float]160" xmlns="http://www.ni.com/PlatformFramework">
+			<Text BaseName="[string]Text" Height="[float]25" Id="a1cf3e17de674b8baed109cb2407b381" Left="[float]628" Text="[string]P REGULATOR" TextWrapping="[TextWrapping]Wrap" Top="[float]457" Width="[float]135" xmlns="http://www.ni.com/PlatformFramework">
 				<FontSetting FontFamily="Segoe UI" FontSize="14" FontStyle="Bold" Id="8be6d0262c9b44748cf19ce7f810e337" />
 				<HtmlBehavior ClassAttributes="index" />
 			</Text>
