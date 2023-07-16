@@ -321,7 +321,7 @@
     <HasChild>False</HasChild>
     <IsStale>True</IsStale>
     <QualifiedName></QualifiedName>
-    <HintEnvoy>::VireoDevSystem::Interactive::WebApp.gcomp</HintEnvoy>
+    <HintEnvoy></HintEnvoy>
   </Job>
   <Job OutputType="WebApplication">
     <CurrentBuildId>
@@ -337,6 +337,44 @@
     <State>Success</State>
     <LastTotalTime>00:00:01</LastTotalTime>
     <StartTime>2023-07-16T13:21:05.9767617Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy>::VireoDevSystem::Interactive::WebApp.gcomp</HintEnvoy>
+  </Job>
+  <Job OutputType="WebApplication">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>75cbbf79-a4bd-4792-bab2-7a67ce10bde8</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>75cbbf79-a4bd-4792-bab2-7a67ce10bde8</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp_Default Web Server</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:01</LastTotalTime>
+    <StartTime>2023-07-16T19:36:42.4691889Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy>::VireoDevSystem::Interactive::WebApp.gcomp</HintEnvoy>
+  </Job>
+  <Job OutputType="WebApplication">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>6722f251-fda2-4685-8a15-fbebbd29b8e8</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>6722f251-fda2-4685-8a15-fbebbd29b8e8</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp_Default Web Server</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2023-07-16T19:38:22.0768804Z</StartTime>
     <HasChild>False</HasChild>
     <IsStale>False</IsStale>
     <QualifiedName>::VireoDevSystem::Interactive::WebApp.gcomp</QualifiedName>
