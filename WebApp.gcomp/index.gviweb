@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="64AE404EE892DB5A25847A05447622F363A3D2C570BFB64CA7FD51431CB487D851238F008B65D7A982E68624E011DB4099AD5EC58DCD6300DDC6CA8FE757B79D" Timestamp="1DA5DF6056AB413" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="5117A85F49F8673D3C93175CE9306835526E26B7ECEBA79D3619B9642009B5C643402D27581F072AE842B68131AFDE3EF0845B0CF1B005652E19097328B793EA" Timestamp="1DA5DF647EB986C" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="9.5.0.49854" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="9.5.0.49854" FeatureSetName="LabVIEW Virtual Instrument" Name="http://www.ni.com/LabVIEW.VI" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
@@ -546,8 +546,8 @@
 				<FontSetting FontFamily="Segoe UI" FontSize="12" FontStyle="Bold" Id="630485fab03c44faa59f627865c9a678" />
 				<HtmlBehavior ClassAttributes="index" />
 			</Text>
-			<NumericText BaseName="[string]Numeric" Height="[float]24" Id="6902777e99a242d38ed7ccf343562e0a" Interval="[int]1" IsReadOnly="[bool]True" Label="[UIModel]38342d1ef222468f8b60cf1f0fbad60a" Left="[float]461" RadixBase="[RadixBase]Decimal" TabIndex="[int]14" Top="[float]489" Value="{DataItemBinding Id=a20a0fc750da4537b8c88a964aa81134}" ValueFormatter="[string]DisplayFormat=Decimal:Digits=6:DigitDisplayType=SignificantDigits:MinimumFieldWidth=0:AlwaysShowSign=False:ShowThousandsSeparator=False" ValueType="[Type]Int32" Width="[float]72" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<Label Height="[float]16" Id="38342d1ef222468f8b60cf1f0fbad60a" LabelOwner="[UIModel]6902777e99a242d38ed7ccf343562e0a" Left="[float]461" Text="[string]Poeng:" Top="[float]469" Width="[float]37" xmlns="http://www.ni.com/PanelCommon" />
+			<NumericText BaseName="[string]Numeric" Height="[float]24" Id="6902777e99a242d38ed7ccf343562e0a" Interval="[int]1" IsReadOnly="[bool]True" Label="[UIModel]38342d1ef222468f8b60cf1f0fbad60a" Left="[float]948" RadixBase="[RadixBase]Decimal" TabIndex="[int]14" Top="[float]48" Value="{DataItemBinding Id=a20a0fc750da4537b8c88a964aa81134}" ValueFormatter="[string]DisplayFormat=Decimal:Digits=6:DigitDisplayType=SignificantDigits:MinimumFieldWidth=0:AlwaysShowSign=False:ShowThousandsSeparator=False" ValueType="[Type]Int32" Width="[float]72" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<Label Height="[float]16" Id="38342d1ef222468f8b60cf1f0fbad60a" LabelOwner="[UIModel]6902777e99a242d38ed7ccf343562e0a" Left="[float]948" Text="[string]Poeng:" Top="[float]28" Width="[float]37" xmlns="http://www.ni.com/PanelCommon" />
 			<NumericText BaseName="[string]Numeric" Height="[float]24" Id="330be722e568428f8748989a2d4502e5" IsReadOnly="[bool]True" Label="[UIModel]f5dd0da4a4f244598305cb2cc698d7f7" Left="[float]803" TabIndex="[int]15" Top="[float]498" Value="{DataItemBinding Id=47d67de30fda45a3b27143d4123f0b0b}" ValueFormatter="[string]DisplayFormat=Automatic:Digits=1:DigitDisplayType=DigitsOfPrecision:MinimumFieldWidth=0:AlwaysShowSign=False:ShowThousandsSeparator=False" Width="[float]72" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 			<Label Height="[float]16" Id="f5dd0da4a4f244598305cb2cc698d7f7" LabelOwner="[UIModel]330be722e568428f8748989a2d4502e5" Left="[float]803" Text="[string]Reguleringsavvik" Top="[float]478" Width="[float]89" xmlns="http://www.ni.com/PanelCommon" />
 		</HtmlFrontPanel>
