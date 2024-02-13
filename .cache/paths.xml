@@ -815,4 +815,76 @@
 			<string>ni-skyline-tdmreader-src-22.5.0_12.niaddoncache</string>
 		</value>
 	</item>
+	<item>
+		<key>
+			<string>ni-skyline-json-src-22.5.0_7ce410bbcc234b7ab98b8880250e9493.niaddoncache</string>
+		</key>
+		<value>
+			<string>ni-skyline-json-src-22.5.0_13.niaddoncache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>ni-skyline-configuration-src-22.5.0_fb5a3387db444a9288763f16bc26b585.niaddoncache</string>
+		</key>
+		<value>
+			<string>ni-skyline-configuration-src-22.5.0_13.niaddoncache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>ni-skyline-file-src-22.5.0_79cb50a401f04ace9122f2e772d4793b.niaddoncache</string>
+		</key>
+		<value>
+			<string>ni-skyline-file-src-22.5.0_13.niaddoncache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>ni-skyline-utilities-src-22.5.0_419b11baf3d942d28e0d2f4aacc8b958.niaddoncache</string>
+		</key>
+		<value>
+			<string>ni-skyline-utilities-src-22.5.0_12.niaddoncache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>ni-skyline-messagehttp-src-22.5.0_7b7c8ea15cee4c6e85fac8678c1c1f1b.niaddoncache</string>
+		</key>
+		<value>
+			<string>ni-skyline-messagehttp-src-22.5.0_13.niaddoncache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>ni-skyline-tdmreader-src-22.5.0_4a5061cb70184218b4634eb3a4ed4652.niaddoncache</string>
+		</key>
+		<value>
+			<string>ni-skyline-tdmreader-src-22.5.0_13.niaddoncache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>ni-skyline-taghttp-src-22.5.0_413aa05bb4c34e289fcae22ec0200e79.niaddoncache</string>
+		</key>
+		<value>
+			<string>ni-skyline-taghttp-src-22.5.0_13.niaddoncache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>NI.G Core_89363052775748e190bdb72c908ef67a_5771446c13084774a08f6472ecbd9f30.gcompcache</string>
+		</key>
+		<value>
+			<string>NI.G Core.gcompcache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>error protocol_69e533219fcf4d3aaa9022ebe114363d_89363052775748e190bdb72c908ef67a_5771446c13084774a08f6472ecbd9f30.gtypecache</string>
+		</key>
+		<value>
+			<string>error protocol.gtypecache</string>
+		</value>
+	</item>
 </SerializableDictionary>
