@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="8FCAFFE4CB3EB7C864B49389B8118EAA62598612DD1AE6C8611874D6B09FA20382780AF91315C0295F2B9D2A0013869EF8BBA45323040E6278A39802010AEE3A" Timestamp="1DB24C1D6805449" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="F99C04611601C0B79CC7B640C69504E7367906E7735D9873577BAB8A12848774FF8E809811DAAAFB64DBABD9FB373FE4B52C65A0EC14118486C388E391D4EAD8" Timestamp="1DB257BF6F4DAC3" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="9.5.0.49854" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="9.5.0.49854" FeatureSetName="LabVIEW Virtual Instrument" Name="http://www.ni.com/LabVIEW.VI" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
@@ -599,11 +599,11 @@
 							<StringBehavior TextDisplayMode="Default" />
 							<FixedConstantFacade Facade="Line Feed Constant" />
 						</Literal>
-						<Literal Bounds="10 50 110 15" DataType="String" Id="635fd6c389144c548a469a98ffd13122" Label="c4dfdc69c0fa47378778aa2271469ea2" xmlns="http://www.ni.com/MocCommon">
-							<p.Data>Gamer pover!!!!</p.Data>
+						<Literal Bounds="25 50 95 15" DataType="String" Id="635fd6c389144c548a469a98ffd13122" Label="c4dfdc69c0fa47378778aa2271469ea2" xmlns="http://www.ni.com/MocCommon">
+							<p.Data>Game over!!!!</p.Data>
 							<StringBehavior TextDisplayMode="Default" />
 						</Literal>
-						<NodeLabel AttachedTo="635fd6c389144c548a469a98ffd13122" Bounds="10 32 30 15" Id="c4dfdc69c0fa47378778aa2271469ea2" Visible="False" xmlns="http://www.ni.com/PlatformFramework">
+						<NodeLabel AttachedTo="635fd6c389144c548a469a98ffd13122" Bounds="25 32 30 15" Id="c4dfdc69c0fa47378778aa2271469ea2" Visible="False" xmlns="http://www.ni.com/PlatformFramework">
 							<p.Text>string {0}</p.Text>
 						</NodeLabel>
 						<Wire Id="a5629be2299a4f78bd6f19972ef360e8" Joints="N(635fd6c389144c548a469a98ffd13122:Out)|(120,55) h(35) v(-5) h(75) v(5) N(3156f3e20fbf4f359b231abfe9672d0d:c2t0v)|(245,55)" xmlns="http://www.ni.com/PlatformFramework" />
